@@ -5,7 +5,7 @@
     <p>Please fill in this form</p>
     <hr>
 
-    <label for="Name"><b>name</b></label>
+    <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
 
 
@@ -18,7 +18,7 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 
-    <label for="aadhar"><b>name</b></label>
+    <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="EnterAadhar Number" name="aadhar" id="aadhar" required>
 
     <hr>
