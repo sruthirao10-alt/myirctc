@@ -5,6 +5,10 @@
     <p>Please fill in this form</p>
     <hr>
 
+    <label for="name"><b>name</b></label>
+    <input type="name" placeholder="Enter name" name="name" id="name" required>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
