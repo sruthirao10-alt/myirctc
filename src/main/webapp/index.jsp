@@ -1,101 +1,35 @@
-<style>
-  * {
-    box-sizing: border-box;
-  }
+letter = """
+A LETTER TO MY DAUGHTER Tanvulu
 
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-  }
+If you have a lovely daughter, read to the end and send it to her.
 
-  .container {
-    width: 50%;
-    margin: auto;
-    padding: 20px;
-    background-color: white;
-    border-radius: 5px;
-    margin-top: 20px;
-  }
+My dear daughter, from the moment I first held you, I knew my life 
+would never be the same. You changed the way I love, the way I fight, 
+and the way I see this world.
 
-  input[type=text], input[type=password] {
-    width: 100%;
-    padding: 10px;
-    margin: 8px 0 16px 0;
-    display: block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
+I know there will be days when life feels heavy, when you doubt 
+yourself, when the world seems unkind, and when the path ahead feels 
+uncertain. But remember this...
 
-  label {
-    display: block;
-    font-weight: bold;
-    margin-top: 5px;
-  }
+God made you for a purpose. You are strong, capable, and created 
+in His image.
 
-  button.registerbtn {
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-    background-color: green;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-  }
+When you feel weak, lean on Him.
+When you are unsure, trust His plan.
+When the world tells you "you can't," remember that you "can do all 
+things through Christ who strengthens you."
 
-  button.registerbtn:hover {
-    background-color: darkgreen;
-  }
+No matter where life takes you, no matter how far you go, you will 
+always have a home in my heart and a place in God's plan.
 
-  .signin {
-    text-align: center;
-    margin-top: 10px;
-  }
+I will spend my life praying for you, cheering for you, and reminding 
+you of how deeply loved you are — by me, and even more by the One 
+who made you.
 
-  h1 {
-    text-align: center;
-    font-size: 18px;
-  }
-</style>
+Forever proud to be your mom.
 
-<form action="action_page.php">
-  <div class="container">
-    <h1>Welcome to MYIRCTC website developed by Saidemy !!</h1>
-    <h1>Provide below information to book a train ticket !!</h1>
-    <p>Please fill in this form</p>
-    <hr>
+If these are also your words to your daughter, send it to her, 
+and put Amen!
+"""
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
-
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-
-    <label for="aadhar"><b>Aadhar</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
-
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-
-    <label for="city"><b>City</b></label>
-    <input type="text" placeholder="Enter City" name="city" id="city" required>
-
-    <hr>
-    <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+print(letter)
