@@ -84,6 +84,9 @@
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
 
+    <label for="father"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
+
     <hr>
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
