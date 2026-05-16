@@ -89,6 +89,10 @@
 
     <label for="city"><b>City</b></label>
     <input type="text" placeholder="Enter City" name="city" id="city" required>
+    
+    <label for="Brother"><b>brother</b></label>
+    <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
+
 
     <hr>
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
