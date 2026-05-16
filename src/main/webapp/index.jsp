@@ -87,6 +87,9 @@
     <label for="father"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
 
+    <label for="city"><b>City</b></label>
+    <input type="text" placeholder="Enter City" name="city" id="city" required>
+
     <hr>
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
