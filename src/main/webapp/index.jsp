@@ -93,6 +93,9 @@
     <label for="Brother"><b>brother</b></label>
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
 
+    <label for="sister"><b>sister</b></label>
+<   input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+
 
     <hr>
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
