@@ -94,7 +94,7 @@
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
 
     <label for="sister"><b>sister</b></label>
-<   input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
 
 
     <hr>
